@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ronald I´m Backend Developer</p>
+<p align="left">My name is Ronald, I´m a Backend Developer</p>
 
 ###
 
