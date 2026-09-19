@@ -69,16 +69,14 @@ I enjoy building practical projects that allow me to explore different areas of 
   <img width="12"/>
   
   <!-- Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="wireshark logo" />
-  <img width="12"/>
+  🌐 Networking
 
   <!-- Kali Linux -->
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="40" alt="kali linux logo" />
   <img width="12"/>
 
   <!-- Nmap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="40" alt="nmap logo" />
-  <img width="12"/>
+  🛰️ Network scanning
 </div>
 </div>
 
