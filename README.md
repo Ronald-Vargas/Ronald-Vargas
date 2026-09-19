@@ -70,44 +70,10 @@ Linux • Kali Linux • Networking • Network Analysis • Vulnerability Asses
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
-
-### 📦 Biozin Inventory
-
-Full-stack inventory management system developed as part of the Biozin Software Solutions ecosystem.
-
-**Technologies:** Angular • Java • Spring Boot • SQL
-
-🔗 [Frontend](https://github.com/Ronald-Vargas/Biozin-Inventory-Frontend)
-🔗 [Backend](https://github.com/Ronald-Vargas/BiozinInventory-Backend)
-
----
-
-### 🎓 Biozin Matrícula
-
-Academic management platform focused on students, enrollment, courses and university administration.
-
-**Technologies:** Angular • C#/.NET • SQL Server
-
-🔗 [Frontend](https://github.com/Ronald-Vargas/Biozin-Matricula-Frontend)
-🔗 [Backend](https://github.com/Ronald-Vargas/Biozin-Matricula-Backend)
-
----
-
-### 🔐 Cybersecurity Projects
-
-A growing collection of practical cybersecurity projects focused on network analysis, infrastructure mapping, vulnerability assessment and security research.
-
-> 🚧 More cybersecurity projects coming soon.
-
----
-
 <h2 align="left">📊 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ronald-Vargas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald-Vargas&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
 </div>
 
 
