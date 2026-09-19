@@ -22,6 +22,20 @@ I enjoy building practical projects that allow me to explore different areas of 
 
 ---
 
+<h2 align="left">📫 Contact</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ronald-vargas-gonzález-894b9836b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+
+  <a href="mailto:ronald.vargasgo@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+</div>
+
+---
+
 <h2 align="left">🛠️ Technologies</h2>
 
 <h3 align="left">💻 Software Development</h3>
@@ -96,16 +110,4 @@ A growing collection of practical cybersecurity projects focused on network anal
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald-Vargas&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
 </div>
 
----
 
-<h2 align="left">📫 Contact</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ronald-vargas-gonzález-894b9836b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-
-  <a href="mailto:ronald.vargasgo@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-</div>
