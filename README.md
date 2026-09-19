@@ -64,8 +64,13 @@ I enjoy building practical projects that allow me to explore different areas of 
 
 <h3 align="left">🔐 Cybersecurity & Systems</h3>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12"/>
+</div>
+
 <p align="left">
-Linux • Kali Linux • Networking • Network Analysis • Vulnerability Assessment
+Kali Linux • Networking • Network Analysis • Vulnerability Assessment
 </p>
 
 ---
