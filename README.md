@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-I'm a Systems Engineering student interested in software development, cybersecurity, networks and infrastructure.
+I'm a Systems Engineering student interested in software development and cybersecurity.
 I enjoy building practical projects that allow me to explore different areas of technology, from backend and frontend development to databases, Linux systems and security.
 </p>
 
